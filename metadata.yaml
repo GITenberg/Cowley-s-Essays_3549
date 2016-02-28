@@ -1,0 +1,29 @@
+_repo: Cowley-s-Essays_3549
+creator:
+  author:
+    agent_name: Cowley, Abraham
+    aliases:
+    - Cowly, Abraham
+    - Cowley, A. (Abraham)
+    - Cole, Francis
+    birthdate: 1618
+    deathdate: 1667
+    gutenberg_agent_id: '1226'
+    url: http://www.gutenberg.org/2009/agents/1226
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Cowley
+description: ''
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- !lcsh 'Essays'
+title: Cowley's Essays
+url: http://www.gutenberg.org/ebooks/3549
