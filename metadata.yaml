@@ -1,5 +1,8 @@
 _repo: Cowley-s-Essays_3549
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cowley, Abraham
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1226
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Cowley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3549#Cowley-s-Essays
 gutenberg_issued: '2002-11-01'
 gutenberg_type: Text
 identifiers:
