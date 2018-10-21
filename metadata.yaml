@@ -1,5 +1,5 @@
 _repo: Cowley-s-Essays_3549
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Poetry'
 - !lcsh 'Essays'
+- GITenberg
 title: Cowley's Essays
 url: http://www.gutenberg.org/ebooks/3549
